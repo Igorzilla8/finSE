@@ -1,0 +1,11 @@
+Za zagon simulacije Stock Exchange je potrebno narediti naslednje
+
+1. Zagon Stock Providerja na 'localhost' pod portom 50007
+v novem terminalu/cmdju zazenes runSVS.py
+
+2. Zagon Stock Exchange na 'localhost' pod portom 50008 
+v novem terminalu/cmdju zazenes runSE.py
+
+2. Zagon preprostega konzolenga klienta, ki poveze na 'localhost' na port 50008 
+v novem terminalu/cmdju zazenes runClient.py
+
